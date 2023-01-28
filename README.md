@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chandrashekhar.stackblitz.io/](https://chandrashekhar.stackblitz.io/)
 
-- 💬 Ask me about **HTML, CSS, Java Script, Reac JS**
+- 💬 Ask me about **JAVA, HTML, CSS, Java Script, Reac JS**
 
 - 📫 How to reach me **shekharonlinework@gmail.com**
 

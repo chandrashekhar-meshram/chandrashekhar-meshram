@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandrashekhar Meshram</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekhar-meshram&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekhar-meshram" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://chandrashekhar.stackblitz.io/](https://chandrashekhar.stackblitz.io/)

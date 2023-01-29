@@ -1,4 +1,3 @@
-![logo](https://github.com/chandrashekhar-meshram/chandrashekhar-meshram/blob/main/Blue%20Modern%20Technology%20Business%20Presentation.png)
 <h1 align="center">Hi 👋, I'm Chandrashekhar Meshram</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
